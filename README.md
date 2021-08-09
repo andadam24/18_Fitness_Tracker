@@ -28,5 +28,5 @@ The user should be able to:
   * View the total duration of each workout from the past seven workouts on the `stats` page.
 
 ## Links:
-https://andadam24.github.io/04_AA_CodeQuiz/ <br/>
-https://github.com/andadam24/04_AA_CodeQuiz <br/>
+https://andadam24.github.io/18_Fitness_Tracker/ <br/>
+https://github.com/andadam24/18_Fitness_Tracker <br/>
